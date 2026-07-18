@@ -2,6 +2,8 @@
 
 Catálogo de todas las pantallas (vistas / screens) que componen el sistema, agrupadas por aplicación. Nexo POS se compone de cuatro frontends que consumen el mismo backend FastAPI en red local.
 
+> 📸 **Capturas de pantalla reales:** ver [`CAPTURAS.md`](CAPTURAS.md) — 31 pantallas capturadas del sistema en ejecución con datos de demostración.
+
 | Aplicación | Tecnología | Uso | Nº de pantallas |
 |---|---|---|---|
 | **Admin Web** | React 19 + React Router | Panel de administración (backoffice) | 19 |
